@@ -4,6 +4,8 @@ Co-founder of [LEAP 71](https://leap71.com), building Noyron, the first AI tha
 
 Author of [PicoGK](https://picogk.org), a foundational open-source geometry kernel for Computational Engineering.
 
+More information: https://grokipedia.com/page/Lin_Kayser
+
 | Resources                |                                                              |
 | ------------------------ | ------------------------------------------------------------ |
 | Open Access book project | [Coding for Engineers](https://picogk.org/coding-for-engineers/TOC.html) |
